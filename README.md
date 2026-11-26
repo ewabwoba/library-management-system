@@ -447,4 +447,8 @@ Computer Science Graduate | QA Engineer | Software Developer
 
 ## License
 
+<<<<<<< Updated upstream
 This project is available for educational and development purposes. Add a formal license if you intend to distribute or reuse the project under specific terms.
+=======
+This project is available for educational and development purposes. Add a formal license if you intend to distribute or reuse the project under specific terms.
+>>>>>>> Stashed changes
